@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alireza Sadeghi Nasab / Personal Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Alireza"
 description              : &description "PhD Candidate | Team Manager"
