@@ -10,4 +10,4 @@ location: "Arak, Iran"
 
 This presentation was about `The Density-based clustering method for privacy preserving Data minig` paper. You can see more details about paper [here](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2619489). The presentation was prepared for **Data Mining** course at Arak University, Fall 2020.
 
-[Visit Keynotes here](https://alirezasn.github.io/files/talk_3_slides)
+[Visit Keynotes here](https://alirezasn.github.io/files/talk_3_slides.pdf)
