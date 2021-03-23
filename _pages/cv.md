@@ -11,49 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering - Software, Iran University of Science and Technology, 2014-2018
+  * **Project:** Study on Process Mining Techniques and Tools and Using it in Analysis of Security Logs
+  * **Supervisor:** [Dr. Mohammad Abdollahi Azgomi](http://webpages.iust.ac.ir/azgomi/)
+* M.S. in Computer Engineering - Software, Iran University of Science and Technology, 2018-2020
+  * **Project:** A Scalable and Utility-Based Technique for Big Data Stream Anonymization
+  * **Supervisor:** [Dr. Mohammad Abdollahi Azgomi](http://webpages.iust.ac.ir/azgomi/)
+* Ph.D in Computer Engineering - Software, Arak University, 2020-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-present: Project Team Manager
+  * Gandom Software Group
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016-2020: iOS Developer
+  * Gandom Software Group
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+You can see my full resume [here](alirezasn.github.io/files/resume.pdf)
+{: .notice}
