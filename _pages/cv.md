@@ -28,5 +28,7 @@ Work experience
   * Gandom Software Group
 
 
-## You can see my full resume [here](https://alirezasn.github.io/files/resume.pdf)
-{: .notice}
+### Full Resume 📄
+
+You can see my full resume [here](https://alirezasn.github.io/files/resume.pdf)
+
