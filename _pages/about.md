@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website | Alireza Sadeghi Nasab"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -22,7 +22,7 @@ Research areas that I work on and am highly interested about are as follows:
 * Big data processing (especially stream data)
 * Software Engineering
 
-### Contact 📧
+## Contact 📧
 
 Feel free to contact at any time!
 
