@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* 2019-present: Project Team Manager
+  * [Gandom](http://gandom.co) Software Group
+
+* 2016-2020: iOS Developer
+  * [Gandom](http://gandom.co) Software Group
+
 Education
 ======
 * Ph.D in Computer Engineering - Software, Arak University, 2020-present
@@ -18,15 +26,6 @@ Education
 * B.S. in Computer Engineering - Software, Iran University of Science and Technology, 2014-2018
   * **Project:** Study on Process Mining Techniques and Tools and Using it in Analysis of Security Logs
   * **Supervisor:** [Dr. Mohammad Abdollahi Azgomi](http://webpages.iust.ac.ir/azgomi/)
-
-Work experience
-======
-* 2018-present: Project Team Manager
-  * Gandom Software Group
-
-* 2016-2020: iOS Developer
-  * Gandom Software Group
-
 
 ### Full Resume 📄
 
