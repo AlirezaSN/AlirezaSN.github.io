@@ -1,0 +1,13 @@
+---
+title: "Broken Hashing Algorithms Slides (in Persian)"
+collection: talks
+type: "Presentation"
+permalink: /talks/talk_16
+venue: "Arak University"
+date: 2021-11-15
+location: "Tehran, Iran"
+---
+
+The presentation was prepared for **Blockchain** course at Arak University, Spring 2021.
+
+[Visit Keynotes here](https://alirezasn.github.io/files/talk_16_slides.pdf)
