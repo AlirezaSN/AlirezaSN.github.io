@@ -1,5 +1,5 @@
 ---
-title: "Broken Hashing Algorithms Slides (in Persian)"
+title: "Broken Hashing Algorithms (in Persian)"
 collection: talks
 type: "Presentation"
 permalink: /talks/talk_16

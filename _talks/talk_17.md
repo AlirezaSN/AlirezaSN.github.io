@@ -1,5 +1,5 @@
 ---
-title: "Cardano Transaction System Slides (in Persian)"
+title: "Cardano Transaction System (in Persian)"
 collection: talks
 type: "Presentation"
 permalink: /talks/talk_17
