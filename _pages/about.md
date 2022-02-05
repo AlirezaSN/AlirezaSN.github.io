@@ -16,12 +16,9 @@ I'm Alierza Sadeghi Nasab. Currently, I am **PhD candidate** at [Arak University
 
 My work interests that I have been working on over the years are as follows:
 
-* Mobile software development (specially in iOS platform)
-> I started to be a software developer in 2016. I choosed iOS application developing because building an app that runs in a mobile was a passion for me. I choosed Swift because it has become trending at that time as a new programming language and ofcourse i love Apple ecosystems and products! i paricipated over 5 apps over these years that you can find more detail [here](https://alirezasn.github.io/files/resume.pdf). At the moment, i just review and test codes before merging & build products for test team via Ad-Hoc and Testflight.
-* Team management
-> In 2019, i decided to try something new and started working as a team manager. My technical mindset helped me so much in this path. Writing features' analysis documents, arranging and holding sessions with stakeholders and technical team during sprints, testing and delivering products after the sprints are completed, handling issues in Jira, Trello and also testing new API services are part of my current job now.
+* Project team management
+* Mobile software development
 * Backend development
-> When I was in undergraduate school, I decided to learn Python because it's a very powerful and useful language. I started learning alongside my college projects. I always selected server-side tasks in teams and developed simple, low-scale APIs. I have not participated in any enterprised projects yet.
 
 ## Research Interests 🔬
 
