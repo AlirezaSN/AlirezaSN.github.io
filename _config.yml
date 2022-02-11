@@ -11,7 +11,7 @@ title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Alireza"
 description              : &description "PhD Candidate | Team Manager"
-url                      : https://AlirezaSN.github.io
+url                      : https://alirezasn.ir
 baseurl                  : ""
 repository               : "alirezasn/alirezasn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
