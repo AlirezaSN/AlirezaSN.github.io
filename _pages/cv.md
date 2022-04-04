@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Work Experience
 ======
 * 2019-present: Project Manager
   * [Gandom](http://gandom.co) Software Group

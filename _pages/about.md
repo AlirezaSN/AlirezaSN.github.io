@@ -26,7 +26,7 @@ My current responsibilities and activities as a project manager are as follows:
 * 🧪 Testing the output of Android, iOS, web applications and admin panels
 * 🧪 Testing API services along with cooperation in their design
 * 📡 Sending push notifications to application users
-* 🖥 Monitoring stability metrics of systems with Sentry and Grafana
+* 📊 Monitoring stability metrics of systems with Sentry and Grafana
 * 🎨 Designing mockup for new features if neccessary
 * 🛠 Checking the quality of iOS applications code along with its build, archive and release of new versions
 * 👨🏻‍💻 Participating in meetings to improve the infrastructure of iOS applications
