@@ -10,4 +10,4 @@ location: "Tehran, Iran"
 
 The presentation was prepared for **Periodric Gatherings** at Gandom Software Group, Winter 2021.
 
-[Visit Keynotes here](https://alirezasn.github.io/files/talk_14_slides.pdf)
+[Visit Keynotes here](https://alirezasn.github.io/files/talks/talk_14_slides.pdf)

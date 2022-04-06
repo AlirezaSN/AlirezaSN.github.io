@@ -10,4 +10,4 @@ location: "Tehran, Iran"
 
 The presentation was prepared for **Blockchain** course at Arak University, Fall 2021.
 
-[Visit Keynotes here](https://alirezasn.github.io/files/talk_16_slides.pdf)
+[Visit Keynotes here](https://alirezasn.github.io/files/talks/talk_16_slides.pdf)
