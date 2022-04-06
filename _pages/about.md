@@ -53,8 +53,8 @@ Research areas that I work on and am highly interested about are as follows:
 Feel free to contact at any time!
 
 * **personal mail:** sadeghinasab.alireza@{gmail,icloud}.com
+* **work mail:** alireza.sadeghinasab@gandom.co
 * **academic mail (Arak University):** s39913161002@phd.araku.ac.ir (funny but real :D)
 * **academic mail (IUST):** a_sadeghinasab@comp.iust.ac.ir
-* **work mail:** alireza.sadeghinasab@gandom.co
 
 > I also share my social networks information in my resume which you can find it [here](https://alirezasn.github.io/files/resume.pdf).
