@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Alireza"
-description              : &description "PhD Candidate | Team Manager"
+description              : &description "Project Manager | PhD Candidate"
 url                      : "//alirezasn.ir"
 baseurl                  : ""
 repository               : "alirezasn/alirezasn.github.io"
@@ -21,9 +21,9 @@ future                   : true
 read_more                : "disabled"
 talkmap_link             : false
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : alirezasn
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-193184448-1"
 
 
 # Site Author
