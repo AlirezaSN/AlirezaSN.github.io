@@ -17,8 +17,9 @@ I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **project manager**
 My current responsibilities and activities as a project manager are as follows:
 
 * 📞 Communication with the development, design, testing, security and business team
-* 📑 Writing and editing sprints analysis documents
-* 📃 Preparation of sprint output documents including the completed tasks list along with the time of each of them
+* 📑 Maintaing sprints documents
+  * 📃 design and analysis documents
+  * 📃 output documents including the completed tasks list and time sheets
 * 📋 Handling Jira-related affairs (creating tasks and bugs, versioning and …)
 * 🎙 Holding multiple sessions like estimation, grooming, retrospective and other internal coordinations
 * 📊 Reviewing statistical metrics from Google Analytics and Firebase
@@ -36,7 +37,7 @@ My current responsibilities and activities as a project manager are as follows:
 
 My work interests that I have been working on over the years are as follows:
 
-* Project Management
+* Product,Project Management
 * Mobile Software Development
 * Backend (Server-Side) Development
 
@@ -45,7 +46,7 @@ My work interests that I have been working on over the years are as follows:
 Research areas that I work on and am highly interested about are as follows:
 
 * Data Privacy Preserving (anonymization, perturbation, ...)
-* BigData Processing (specially stream data)
+* BigData Processing (especially stream data)
 * Software Engineering
 
 ## Contact 📧
