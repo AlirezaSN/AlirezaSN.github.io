@@ -29,7 +29,7 @@ Education
 
 ### Resume
 
-⚒ Click [here](https://alirezasn.ir/files/resume/industrial.pdf) to see my industrial resume.
+🛠 Click [here](https://alirezasn.ir/files/resume/industrial.pdf) to see my industrial resume.
 
 🔬 Click [here](https://alirezasn.ir/files/resume/educational.pdf) to see my educational (academic) resume.
 
