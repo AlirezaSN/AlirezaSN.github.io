@@ -10,4 +10,4 @@ location: "Arak, Iran"
 
 This presentation was about `PROUD: PaRallel OUtlier Detection for streams` paper. You can see more details about paper [here](https://dl.acm.org/doi/10.1145/3318464.3384688). The presentation was prepared for **Data Mining** course at Arak University, Fall 2020.
 
-[Visit Keynotes here](https://alirezasn.github.io/files/talks/talk_4_slides.pdf)
+[Visit Keynotes here](https://alirezasn.ir/files/talks/talk_4_slides.pdf)

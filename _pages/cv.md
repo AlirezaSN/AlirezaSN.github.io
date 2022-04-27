@@ -14,7 +14,7 @@ Work Experience
 * 2019-present: Project Manager
   * [Gandom](http://gandom.co) Software Group
 
-* 2016-2020: iOS Developer
+* 2016-2019: iOS Developer
   * [Gandom](http://gandom.co) Software Group
 
 Education
@@ -27,7 +27,11 @@ Education
   * **Thesis Title:** Study on Process Mining Techniques and Tools and Using it in Analysis of Security Logs
   * **Supervisor:** [Dr. Mohammad Abdollahi Azgomi](http://webpages.iust.ac.ir/azgomi/)
 
-### Full Resume 📄
+### Resume
 
-You can see my full resume [here](https://alirezasn.github.io/files/resume.pdf)
+⚒ Click [here](https://alirezasn.ir/files/resume/industrial.pdf) to see my industrial resume.
+
+🔬 Click [here](https://alirezasn.ir/files/resume/educational.pdf) to see my educational (academic) resume.
+
+👨🏻‍💻 Click [here](https://alirezasn.ir/files/resume/full.pdf) to see my full resume.
 

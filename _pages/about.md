@@ -10,7 +10,7 @@ redirect_from:
 
 Hey there! 👋
 
-I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **project manager** at [Gandom software group](http://gandom.co). I am also a **PhD candidate** at [Arak University](http://araku.ac.ir). I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively.  More detailed information about my industrial and educational background can be found [here](https://alirezasn.github.io/cv/).
+I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **project manager** at [Gandom software group](http://gandom.co). I am also a **PhD candidate** at [Arak University](http://araku.ac.ir). I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively.  More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
 
 ## Current Responsibilities 👷🏻‍♂️
 
@@ -58,4 +58,4 @@ Feel free to contact at any time!
 * **academic mail (Arak University):** s39913161002@phd.araku.ac.ir (funny but real :D)
 * **academic mail (IUST):** a_sadeghinasab@comp.iust.ac.ir
 
-> I also share my social networks information in my resume which you can find it [here](https://alirezasn.github.io/files/resume.pdf).
+> Visit my CV page for more info: [Click here](https://www.alirezasn.ir/cv/).

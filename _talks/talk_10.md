@@ -10,4 +10,4 @@ location: "Arak, Iran"
 
 This presentation was about `PERMIT: Network slicing for personalized 5G mobile telecommunications` paper. You can see more details about paper [here](https://ieeexplore.ieee.org/abstract/document/7926922/). The presentation was prepared for **Advanced Software Concepts** course at Arak University, Spring 2021.
 
-[Visit Keynotes here](https://alirezasn.github.io/files/talks/talk_10_slides.pdf)
+[Visit Keynotes here](https://alirezasn.ir/files/talks/talk_10_slides.pdf)
