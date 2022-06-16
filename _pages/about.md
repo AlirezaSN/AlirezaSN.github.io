@@ -17,7 +17,7 @@ I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **project manager**
 My current responsibilities and activities as a project manager are as follows:
 
 * 📞 Communication with the development, design, testing, security and business team
-* 📑 Maintaing sprints documents
+* 📑 Maintaining sprints documents
   * 📃 design and analysis documents
   * 📃 output documents including the completed tasks list and time sheets
 * 📋 Handling Jira-related affairs (creating tasks and bugs, versioning and …)
@@ -28,7 +28,7 @@ My current responsibilities and activities as a project manager are as follows:
 * 🧪 Testing API services along with cooperation in their design
 * 📡 Sending push notifications to application users
 * 📊 Monitoring stability metrics of systems with Sentry and Grafana
-* 🎨 Designing mockup for new features if neccessary
+* 🎨 Designing mockup for new features if necessary
 * 🛠 Checking the quality of iOS applications code along with its build, archive and release of new versions
 * 👨🏻‍💻 Participating in meetings to improve the infrastructure of iOS applications
 * 🧾 Reviewing resumes sent to the company
@@ -38,6 +38,7 @@ My current responsibilities and activities as a project manager are as follows:
 My work interests that I have been working on over the years are as follows:
 
 * Product,Project Management
+* Product Ownership
 * Mobile Software Development
 * Backend (Server-Side) Development
 
