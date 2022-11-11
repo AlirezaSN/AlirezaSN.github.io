@@ -16,7 +16,7 @@ I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **project manager**
 
 My current responsibilities and activities as a project manager are as follows:
 
-* 📞 Communication with the development, design, testing, security and business team
+* 📞 Communication with the development, design, test, security and business team
 * 📑 Maintaining sprints documents
   * 📃 design and analysis documents
   * 📃 output documents including the completed tasks list and time sheets
@@ -24,7 +24,7 @@ My current responsibilities and activities as a project manager are as follows:
 * 🎙 Holding multiple sessions like estimation, grooming, retrospective and other internal coordinations
 * 📊 Reviewing statistical metrics from Google Analytics and Firebase
 * 📱 Sending weekly report of Cafe-Bazaar comments (customer feedback)
-* 🧪 Testing the output of Android, iOS, web applications and admin panels
+* 🧪 Testing Android, iOS, web applications and admin panels
 * 🧪 Testing API services along with cooperation in their design
 * 📡 Sending push notifications to application users
 * 📊 Monitoring stability metrics of systems with Sentry and Grafana
