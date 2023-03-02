@@ -11,7 +11,7 @@ redirect_from:
 
 Work Experience
 ======
-* 2019-present: Project Manager
+* 2019-present: Product Owner
   * [Gandom](http://gandom.co) Software Group
 
 * 2016-2019: iOS Developer
