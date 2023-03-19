@@ -10,28 +10,25 @@ redirect_from:
 
 Hey there! 👋
 
-I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **product owner** at [Gandom software group](http://gandom.co). I am also a **PhD candidate** at [Arak University](http://araku.ac.ir). I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively.  More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
+I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **software product owner** at [Gandom software group](http://gandom.co). I am also a **PhD candidate** at [Arak University](http://araku.ac.ir). I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively.  More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
 
 ## Current Responsibilities 👷🏻‍♂️
 
 My current responsibilities and activities as a product owner are as follows:
 
-* 📞 Communication with the development, design, test, security and business team
-* 📑 Maintaining sprints documents
-  * 📃 design and analysis documents
-  * 📃 output documents including the completed tasks list and time sheets
-* 📋 Handling Jira-related affairs (creating tasks and bugs, versioning and …)
-* 🎙 Holding multiple sessions like estimation, grooming, retrospective and other internal coordinations
-* 📊 Reviewing statistical metrics from Google Analytics and Firebase
-* 📱 Sending weekly report of Cafe-Bazaar comments (customer feedback)
-* 🧪 Testing Android, iOS, web applications and admin panels
-* 🧪 Testing API services along with cooperation in their design
-* 📡 Sending push notifications to application users
-* 📊 Monitoring stability metrics of systems with Sentry and Grafana
-* 🎨 Designing mockup for new features if necessary
-* 🛠 Checking the quality of iOS applications code along with its build, archive and release of new versions
-* 👨🏻‍💻 Participating in meetings to improve the infrastructure of iOS applications
-* 🧾 Reviewing resumes sent to the company
+* 📞 Collaborating with product, development, design, testing, security, support and business teams through regular communication
+* 📑 Keeping sprint documents up to date, including design and analysis documents, completed tasks lists, and timesheets.
+* 📋 Managing tasks, bugs, versions, flows, etc ... in Jira
+* 🎙 Facilitating multiple sessions such as estimation, grooming, retrospective, and other internal communication coordination
+* 📊 Analyzing statistical metrics from Google Analytics and Firebase
+* 📱 Providing weekly reports on Cafe-Bazaar comments (customer feedback)
+* 🧪 Conducting testing on Android, iOS, web applications, and admin panels
+* 🧪 Testing API services and collaborating in their design
+* 📡 Delivering push notifications to application users
+* 📊 Monitoring system stability metrics with Sentry and Grafana
+* 🎨 Designing mockups for new features as required
+* 🛠 Ensuring the quality of code for iOS applications, and managing their build, archive, and release of new versions
+* 🧾 Reviewing resumes submitted to the company
 
 ## Work Interests 👨🏻‍💻
 
