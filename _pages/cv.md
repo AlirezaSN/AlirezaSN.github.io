@@ -11,15 +11,20 @@ redirect_from:
 
 Work Experience
 ======
-* 2019-present: Product Owner
+* Mar 2020 - Present: Product Owner
   * [Gandom](http://gandom.co) Software Group
 
-* 2016-2019: iOS Developer
+* Feb 2019 - Mar 2020: Scrum Master
+  * [Gandom](http://gandom.co) Software Group
+
+* Jul 2016 - Feb 2019: iOS Developer
   * [Gandom](http://gandom.co) Software Group
 
 Education
 ======
 * Ph.D in Computer Engineering - Software, Arak University, 2020-present
+  * **Thesis Title:** To Be Announced!
+  * **Supervisor:** [Dr. Mohsen Rahmani](https://mohsenrahmani.ir)
 * M.S. in Computer Engineering - Software, Iran University of Science and Technology, 2018-2020
   * **Thesis Title:** A Scalable and Utility-Based Technique for Big Data Stream Anonymization
   * **Supervisor:** [Dr. Mohammad Abdollahi Azgomi](http://webpages.iust.ac.ir/azgomi/)

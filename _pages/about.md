@@ -37,8 +37,7 @@ My current responsibilities and activities as a product owner are as follows:
 
 My work interests that I have been working on over the years are as follows:
 
-* Product Management
-* Product Ownership
+* Product Management/ Ownership
 * Project Management
 * Mobile Software Development
 * Backend (Server-Side) Development
