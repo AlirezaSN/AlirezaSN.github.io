@@ -11,10 +11,10 @@ redirect_from:
 
 Work Experience
 ======
-* Mar 2020 - Present: Software Product Owner
+* Mar 2020 - Present: Product Owner
   * [Gandom](http://gandom.co) Software Group
 
-* Feb 2019 - Mar 2020: Agile Scrum Master
+* Feb 2019 - Mar 2020: Scrum Master
   * [Gandom](http://gandom.co) Software Group
 
 * Jul 2016 - Feb 2019: iOS Developer

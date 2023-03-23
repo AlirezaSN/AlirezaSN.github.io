@@ -10,7 +10,7 @@ redirect_from:
 
 Hey there! 👋
 
-I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **software product owner** at [Gandom software group](http://gandom.co). I am also a **PhD candidate** at [Arak University](http://araku.ac.ir). I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively.  More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
+I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **product owner** at [Gandom software group](http://gandom.co). I am also a **PhD candidate** at [Arak University](http://araku.ac.ir). I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively.  More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
 
 ## Current Responsibilities 👷🏻‍♂️
 
