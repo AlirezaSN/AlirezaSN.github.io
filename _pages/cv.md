@@ -23,7 +23,7 @@ Work Experience
 Education
 ======
 * Ph.D in Computer Engineering - Software, Arak University, 2020-present
-  * **Thesis Title:** To Be Announced!
+  * **Thesis Title:** Proposing an Anonymization Strategy Based on Relaxed Functional Dependencies
   * **Supervisor:** [Dr. Mohsen Rahmani](https://mohsenrahmani.ir)
 * M.S. in Computer Engineering - Software, Iran University of Science and Technology, 2018-2020
   * **Thesis Title:** A Scalable and Utility-Based Technique for Big Data Stream Anonymization
