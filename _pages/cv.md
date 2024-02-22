@@ -11,7 +11,13 @@ redirect_from:
 
 Work Experience
 ======
-* Mar 2020 - Present: Product Owner
+* Feb 2024 - Present: Product Manager
+  * [Gandom](http://gandom.co) Software Group
+
+* Oct 2023 - Feb 2024: Mid Product Owner
+  * [Digipay &#124; Digikala Group](https://www.mydigipay.com)
+  
+* Mar 2020 - Oct 2023: Product Owner
   * [Gandom](http://gandom.co) Software Group
 
 * Feb 2019 - Mar 2020: Scrum Master

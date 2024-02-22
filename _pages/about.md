@@ -9,25 +9,7 @@ redirect_from:
 
 Hey there! 👋
 
-I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **product owner** at [Gandom software group](http://gandom.co). I am also a **PhD candidate** at [Arak University](http://araku.ac.ir). I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively.  More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
-
-## Current Responsibilities 👷🏻‍♂️
-
-My current responsibilities and activities as a product owner are as follows:
-
-* 📞 Collaborating with product, development, design, testing, security, support and business teams through regular communication
-* 📑 Keeping sprint documents up to date, including design and analysis documents, completed tasks lists, and timesheets.
-* 📋 Managing tasks, bugs, versions, flows, etc ... in Jira
-* 🎙 Facilitating multiple sessions such as estimation, grooming, retrospective, and other internal communication coordination
-* 📊 Analyzing statistical metrics from Google Analytics and Firebase
-* 📱 Providing weekly reports on Cafe-Bazaar comments (customer feedback)
-* 🧪 Conducting testing on Android, iOS, web applications, and admin panels
-* 🧪 Testing API services and collaborating in their design
-* 📡 Delivering push notifications to application users
-* 📊 Monitoring system stability metrics with Sentry and Grafana
-* 🎨 Designing mockups for new features as required
-* 🛠 Ensuring the quality of code for iOS applications, and managing their build, archive, and release of new versions
-* 🧾 Reviewing resumes submitted to the company
+I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **product manager** at [Gandom software group](http://gandom.co). I am also a **PhD candidate** at [Arak University](http://araku.ac.ir). I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively.  More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
 
 ## Work Interests 👨🏻‍💻
 
