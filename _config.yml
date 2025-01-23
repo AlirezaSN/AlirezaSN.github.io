@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Alireza"
-description              : &description "Product Manager | PhD Candidate"
+description              : &description "Product Manager | PhD in Software"
 url                      : "//alirezasn.ir"
 baseurl                  : ""
 repository               : "alirezasn/alirezasn.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alireza Sadeghi-Nasab"
   avatar           : "profile.JPEG"
-  bio              : "Product Manager | PhD Candidate"
+  bio              : "Product Manager | PhD in Software"
   location         : "Tehran, IRAN"
   employer         :
   pubmed           : 
