@@ -12,16 +12,16 @@ redirect_from:
 Work Experience
 ======
 * Feb 2024 - Present: Product Manager
-  * [Gandom Software Group](http://gandom.co)
+  * [Gandom](http://gandom.co)
 
 * Oct 2023 - Feb 2024: Mid Product Owner
   * [Digipay &#124; Digikala Group](https://www.mydigipay.com)
   
 * Mar 2020 - Oct 2023: Product Owner
-  * [Gandom Software Group](http://gandom.co)
+  * [Gandom](http://gandom.co)
 
 * Jul 2016 - Mar 2020: iOS Developer
-  * [Gandom Software Group](http://gandom.co)
+  * [Gandom](http://gandom.co)
 
 Education
 ======
