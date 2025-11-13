@@ -9,7 +9,11 @@ redirect_from:
 
 Hey there! 👋
 
-I'm Alireza Sadeghi-Nasab. Currently, I hold the position of **product manager** at [Gandom](http://gandom.co). I got my PhD degree from [Arak University](http://araku.ac.ir) in 2024. I got my BSc. and MSc. degrees from [Iran University of Science and Technology](http://www.iust.ac.ir) in 2018 and 2020 respectively. More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
+I'm Alireza Sadeghi-Nasab. I’m a Product Manager with over 9 years of experience in the fintech industry, combining a strong technical foundation with a deep understanding of user-centered product development. With a background as a software engineer and an academic journey that includes a BSc, MSc, and PhD in Software Engineering, I bring both practical and analytical perspectives to building digital products.
+
+Throughout my career, I’ve managed SaaS B2C products — particularly mobile applications — that empower users to interact with complex financial systems through intuitive, reliable, and scalable solutions. I’m passionate about bridging the gap between technology and user needs, leading cross-functional teams, and delivering data-driven products that create measurable business value.
+
+More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
 
 ## Work Interests 👨🏻‍💻
 
