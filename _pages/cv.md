@@ -13,11 +13,8 @@ Work Experience
 ======
 * Feb 2024 - Present: Product Manager
   * [Gandom](http://gandom.co) | [Agah Group](https://agah.com)
-
-* Oct 2023 - Feb 2024: Mid Product Owner
-  * [Digipay &#124; Digikala Group](https://www.mydigipay.com)
   
-* Mar 2020 - Oct 2023: Product Owner
+* Mar 2020 - Feb 2024: Product Owner
   * [Gandom](http://gandom.co) | [Agah Group](https://agah.com)
 * Jul 2016 - Mar 2020: iOS Developer
 
