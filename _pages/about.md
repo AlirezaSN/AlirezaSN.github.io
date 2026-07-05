@@ -15,7 +15,7 @@ Throughout my career, I’ve managed SaaS B2C products — particularly mobile a
 
 More detailed information about my industrial and educational background can be found [here](https://alirezasn.ir/cv/).
 
-> Visit my Product Management learning website: [Click here](https://www.pm.alirezasn.ir/).
+> Visit my Product Management learning website: [Click here](https://pm.alirezasn.ir).
 
 ## Work Interests 👨🏻‍💻
 
