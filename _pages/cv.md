@@ -11,13 +11,13 @@ redirect_from:
 
 Work Experience
 ======
-* Feb 2024 - Present: Product Manager
+* Feb 2023 - Present: Product Manager
   * [Gandom](http://gandom.co) &#124; [Agah Group](https://agah.com)
   
-* Mar 2020 - Feb 2024: Product Owner
+* Mar 2020 - Feb 2023: Product Owner
   * [Gandom](http://gandom.co) &#124; [Agah Group](https://agah.com)
-* Jul 2016 - Mar 2020: iOS Developer
 
+* Jul 2016 - Mar 2020: iOS Developer
   * [Gandom](http://gandom.co) &#124; [Agah Group](https://agah.com)
 
 Education
